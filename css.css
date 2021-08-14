@@ -1,0 +1,93 @@
+.tanzir1{
+    text-align: center;
+    color: #73951d;
+    padding: 0px;
+    font-size: 1rem;
+}
+.tanzir2{
+    text-align: center;
+    color: #2e2d2d;
+    font-size: 3rem;
+   ;
+}
+.tanzir3{
+    text-align: center;
+    
+    padding-top: 20px;
+}
+
+
+.single-manu{
+    flex-basis: 580px;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+   
+}
+.single-manu:nth-child(4), .single-manu:nth-child(5){
+    border-bottom: 0px;
+    
+}
+.single-manu{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.single-manu img{
+    max-width: 1800px;
+    margin-right: 30px;
+    border-radius: 50%;
+    
+}
+.single-manu span{
+    color: #f6a217;
+}
+.tanzir6 img{
+    border-radius: 10px;
+    
+}
+.tanzir7{
+    text-align: center;
+    color: #73951d;
+    padding: 0px;
+    font-size: 1rem;
+    
+}
+.tanzir8{
+    text-align: center;
+    color: #2e2d2d;
+    font-size: 3rem;
+}
+.tanzir10{
+    border-radius: 20px;
+}
+.tanzir11{
+    font-size: 2rem;
+    text-align: center;
+}
+.tanzir12{
+    text-align: center;
+}
+.tanzir13 img{
+    height: 100px;
+    width: 100px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+
+}
+.tanzir13{
+    text-align: center;
+    align-items: center;
+}
+.tanzir13 img {
+   text-align: center;
+    border-radius: 10px;
+}
+.tanzir13 h5{
+    color:#000000
+    ;
+}
+.tanzir13 p{
+    color: #565256;
+}
